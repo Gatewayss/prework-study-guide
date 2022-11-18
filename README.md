@@ -10,13 +10,11 @@ N/A
 
 ## Usage
 
-This web application is divided into four sections; HTML, CSS, Git and JavaScript. Students can review their notes on these subjects or go into the terminal and take a suggestion on what topic to study if the user cannot decide for themselves. The terminal will also provide a list of the topics that the bootcamp student has already studied. 
+This web application is divided into four sections; HTML, CSS, Git and JavaScript. Students can review their notes on these subjects or go into the terminal window and take a suggestion on what topic to study if the user cannot decide for themselves. The terminal will also provide a list of the topics that the bootcamp student has already studied. 
 
+![image of the webpage](assets/images/Screen%20Shot%202022-11-18%20at%2012.09.37%20PM.png)
 
-
-
-![main webpage](assets/images/main-page.png)
-![main webpage with terminal window](assets/images/terminal-page.png)
+![image of the webpage with the terminal window](assets/images/Screen%20Shot%202022-11-18%20at%2012.09.56%20PM.png)
 
 ## Credits
 
